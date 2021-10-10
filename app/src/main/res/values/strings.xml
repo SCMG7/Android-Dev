@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DINI-V02</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not Registered ?</string>
+    <string name="register_now">Register Now!!</string>
+    <string name="register">Register</string>
+    <string name="already_a_member">Already a Member?</string>
+    <string name="login_now">Login NOW</string>
+    <string name="user_register">Username</string>
+    <string name="password_regist">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
+
+</resources>
